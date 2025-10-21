@@ -1,0 +1,14 @@
+uvicorn
+fastapi
+sqlmodel
+pydantic
+passlib
+bcrypt==4.0.1
+python-multipart
+python-jose[cryptography]
+psycopg2-binary
+alembic
+pytest
+httpx
+email-validator
+python-dotenv
